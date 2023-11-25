@@ -2,4 +2,4 @@
 
 ## Использование
 
-Запуск программы .ipynb необходимо на Google Colabratory или Jupyter Notebook
+Запускать программу .ipynb необходимо на Google Colabratory или Jupyter Notebook
